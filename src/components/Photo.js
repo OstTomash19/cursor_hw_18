@@ -11,19 +11,19 @@ const Photo = () => {
         <div className='photos-container'>
             <div className='photo'>
                 <h3>First Photo</h3>
-                <img src={auto_1}/>
+                <img src={auto_1} alt=''/>
             </div>
             <div className='photo'>
                 <h3>Second Photo</h3>
-                <img src={auto_2}/>
+                <img src={auto_2} alt=''/>
             </div>
             <div className='photo'>
                 <h3>Third Photo</h3>
-                <img src={auto_3}/>
+                <img src={auto_3} alt=''/>
             </div>
             <div className='photo'>
                 <h3>Fourth Photo</h3>
-                <img src={auto_4}/>
+                <img src={auto_4} alt=''/>
             </div>
         </div>
     )
