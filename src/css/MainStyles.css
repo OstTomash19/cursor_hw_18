@@ -1,0 +1,13 @@
+.congratulation {
+    text-align: center;
+    padding: 40px;
+}
+
+.congratulation h1 {
+    font-size: 40px;
+    color: #f5006f;
+}
+
+.congratulation img {
+    width: 800px;
+}

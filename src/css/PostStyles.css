@@ -1,0 +1,56 @@
+body {
+    background-color: #791414;
+}
+
+.postItem {
+    display: flex;
+    width: 1010px;
+    background-color: rgb(9, 0, 59);
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+.postItemPhoto {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+    margin: 15px 30px;
+}
+
+.postItemPhoto img {
+    width: 85px;
+}
+
+.postItemContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.postItemInfo {
+    margin-bottom: 15px;
+}
+
+.itemInfoAboutPerson {
+    display: flex;
+    width: 350px;
+    margin-top: 20px;
+}
+
+.personName, .personNickname,
+.itemContent {
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+}
+
+.postPhoto {
+    width: 850px;
+    border-radius: 10px;
+}
+
+.postPhoto img {
+    width: 100%;
+    height: 90%;
+    border-radius: 10px;
+}

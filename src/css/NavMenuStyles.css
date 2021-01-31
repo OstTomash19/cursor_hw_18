@@ -1,0 +1,22 @@
+.navMenu {
+    background-color: transparent;
+    padding: 20px 0;
+    display: flex;
+    width: 650px;
+    justify-content: space-around;
+    margin: 10px auto 0 auto;
+}
+
+.link {
+    background-color: #72a2b7;
+    padding: 10px;
+    border-radius: 25%;
+    text-decoration: none;
+    font-size: 23px;
+    color: black;
+}
+
+.active-link {
+    background-color: yellow;
+    color: red;
+}
