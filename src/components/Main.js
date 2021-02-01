@@ -6,7 +6,7 @@ const Main = () => {
     return(
         <div className='congratulation'>
             <h1>Вітаю на нашому сайті!</h1>
-            <img src='https://pngimg.com/uploads/welcome/welcome_PNG32.png'/>
+            <img src='https://pngimg.com/uploads/welcome/welcome_PNG32.png' alt=''/>
         </div>
     )
 }
